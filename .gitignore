@@ -1,0 +1,17 @@
+# ไฟล์แคชระบบ (System Cache)
+.DS_Store
+Thumbs.db
+
+# โฟลเดอร์ไลบรารี (Dependencies)
+node_modules/
+vendor/
+
+# ไฟล์ตั้งค่าที่มีรหัสผ่าน (Environment Variables)
+.env
+
+# ไฟล์ Log
+*.log
+
+# โฟลเดอร์ IDE
+.vscode/
+.idea/
